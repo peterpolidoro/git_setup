@@ -1,10 +1,12 @@
-#Git Setup Mac OS X
+# Git Setup Mac OS X
 
-Download and install XCode:
+## Install Git
+
+### Download and install XCode
 
 <https://developer.apple.com/xcode/>
 
-Install Homebrew:
+### Install Homebrew
 
 ```shell
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -24,8 +26,24 @@ Open a new terminal to complete the PATH modification or run:
 source ~/.profile
 ```
 
-Install Git
+### Install Git Using Homebrew
 
 ```shell
 brew install git
+```
+
+## Setup Git
+
+### Set username and email address for every repository
+
+```shell
+git config --global user.name "Mona Lisa"
+git config --global user.email "email@example.com"
+```
+
+### Set username and email address for a single repository
+
+```shell
+git config user.name "Mona Lisa"
+git config user.email "email@example.com"
 ```

@@ -1,10 +1,10 @@
-#Git Setup Windows
+# Git Setup Windows
 
-##Download Git
+## Download Git
 
 <http://git-scm.com/download/win>
 
-##Install Git
+## Install Git
 
 Select all components.
 
@@ -17,3 +17,18 @@ Select Options:
 * Enable file system caching
 * Enable Git Credential Manager
 
+## Setup Git
+
+### Set username and email address for every repository
+
+```shell
+git config --global user.name "Mona Lisa"
+git config --global user.email "email@example.com"
+```
+
+### Set username and email address for a single repository
+
+```shell
+git config user.name "Mona Lisa"
+git config user.email "email@example.com"
+```
