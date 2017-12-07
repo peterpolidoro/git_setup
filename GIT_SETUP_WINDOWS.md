@@ -10,12 +10,15 @@ Select all components.
 
 Select Options:
 
-* Use Git from Bash only
+* Use Nano editor by default
+* Use Git from Git Bash only
 * Use OpenSSH
+* Use OpenSSL
 * Checkout Windows-style, commit Unix-style line endings
 * Use Windows' default console window
 * Enable file system caching
 * Enable Git Credential Manager
+* Enable symbolic links
 
 ## Setup Git
 
