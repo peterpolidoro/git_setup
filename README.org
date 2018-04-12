@@ -1,0 +1,15 @@
+#+TITLE: git_setup
+#+AUTHOR: Peter Polidoro
+#+EMAIL: peterpolidoro@gmail.com
+
+* Repository Information
+  - Author :: Peter Polidoro
+  - License :: BSD
+
+* Documentation
+
+  [[./GIT_SETUP_LINUX.org][Setup Git for Linux]]
+
+  [[./GIT_SETUP_MAC_OS_X.org][Setup Git for Mac OS X]]
+
+  [[./GIT_SETUP_WINDOWS.org][Setup Git for Windows]]
