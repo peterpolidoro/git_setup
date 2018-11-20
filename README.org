@@ -8,8 +8,14 @@
 
 * Documentation
 
-  [[./GIT_SETUP_LINUX.org][Setup Git for Linux]]
+** Linux
 
-  [[./GIT_SETUP_MAC_OS_X.org][Setup Git for Mac OS X]]
+   [[https://github.com/janelia-experimental-technology/git_setup/blob/master/GIT_SETUP_LINUX.org]]
 
-  [[./GIT_SETUP_WINDOWS.org][Setup Git for Windows]]
+** Mac OS X
+
+   [[https://github.com/janelia-experimental-technology/git_setup/blob/master/GIT_SETUP_MAC_OS_X.org]]
+
+** Windows
+
+   [[https://github.com/janelia-experimental-technology/git_setup/blob/master/GIT_SETUP_MAC_OS_X.org]]
