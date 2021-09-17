@@ -1,6 +1,6 @@
 #+TITLE: Git Setup Linux
 #+AUTHOR: Peter Polidoro
-#+EMAIL: peterpolidoro@gmail.com
+#+EMAIL: peter@polidoro.io
 
 * Install Git
 
